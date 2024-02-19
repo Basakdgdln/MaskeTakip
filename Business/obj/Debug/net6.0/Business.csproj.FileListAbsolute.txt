@@ -1,0 +1,16 @@
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\bin\Debug\net6.0\Business.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.sourcelink.json
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\Business\obj\Debug\net6.0\ref\Business.dll
