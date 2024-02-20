@@ -1,0 +1,15 @@
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\bin\Debug\net6.0\KodlamaIO.exe
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\bin\Debug\net6.0\KodlamaIO.deps.json
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\bin\Debug\net6.0\KodlamaIO.runtimeconfig.json
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\bin\Debug\net6.0\KodlamaIO.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\bin\Debug\net6.0\KodlamaIO.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.sourcelink.json
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\refint\KodlamaIO.dll
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.pdb
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\KodlamaIO.genruntimeconfig.cache
+C:\Users\BERKAY\Desktop\C# Projeleri\MaskeTakip\KodlamaIO\obj\Debug\net6.0\ref\KodlamaIO.dll
